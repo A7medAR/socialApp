@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387574971320",
+    "project_id": "ahmed-pro-505b0",
+    "storage_bucket": "ahmed-pro-505b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387574971320:android:2729a7937e9fe60a782d4d",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnaXf6gdJ6RhbAs4rbjXD744V49QD9PJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
